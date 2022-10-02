@@ -1,0 +1,12 @@
+/is help
+/is create
+/is invite
+/is leave
+/is kick
+/is join
+/is spectate
+/is invites
+/is delete
+/is createbackup
+/is loadbackup
+/is deletebackup

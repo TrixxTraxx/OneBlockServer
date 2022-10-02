@@ -1,0 +1,11 @@
+Lobby:
+  world: world
+  x: 0
+  y: 100
+  z: 0
+sql:
+  host:
+  port: 3306
+  database:
+  username:
+  password:

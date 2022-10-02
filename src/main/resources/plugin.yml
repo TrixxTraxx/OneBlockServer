@@ -1,0 +1,7 @@
+name: OneBlock
+version: '${project.version}'
+main: me.TrixxTraxx.OneBlock.OneBlock
+api-version: 1.19
+
+commands:
+  is:
